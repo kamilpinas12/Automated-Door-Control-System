@@ -1,0 +1,4 @@
+../Core/Src/func.c:10:6:get_state	7
+../Core/Src/func.c:53:6:motor	10
+../Core/Src/func.c:94:6:pomiar_foto	9
+../Core/Src/func.c:139:6:error_led	4

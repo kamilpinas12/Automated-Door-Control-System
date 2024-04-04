@@ -1,0 +1,4 @@
+../Core/Src/func.c:10:6:get_state	16	static
+../Core/Src/func.c:53:6:motor	16	static
+../Core/Src/func.c:94:6:pomiar_foto	24	static
+../Core/Src/func.c:139:6:error_led	24	static
