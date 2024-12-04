@@ -1,6 +1,5 @@
-The Automated Door Control System is a project developed using an STM32 (blue pill) microcontroller aimed at automatically opening and closing the chicken coop door based on ambient light conditions.
+The Automated Door Control System is a project developed using an STM32 (Blue Pill) microcontroller, designed to automatically open and close a chicken coop door based on ambient light conditions.
 
-Features
 - DC motor controlled with PWM
 - light sensor
 - limit switches
